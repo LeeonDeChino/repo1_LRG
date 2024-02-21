@@ -1,0 +1,32 @@
+Comandos de terminal
+
+pwd - print working directory
+
+touch - crear archivos
+
+mkdir - crear carpetas
+
+ls - lista los archivos y carpetas del directorio actual
+  ls -l - lista los detalles de los archivos y carpetas
+  ls -a - lista todos los archivos, incluyendo los ocultos
+
+  clear - limpia la terminal
+
+  cd [ruta] - change directory / cambia el directorio en el que estamos trabajando
+    cd .. - sube un nivel en la carpeta que te encuentres, para subir 3 niveles: cd ../../../
+    cd / - sube directamente a la raíz del directorio.
+    cd ~ - sube al directorio home del usuario actual
+
+    rm [nombre] - eliminar archivos
+    rmdir [nombre] - elimina carpetas (vacías)
+    rm -r - nos permite eliminar carpetas y su contenido
+
+GitHub
+
+    git config --list = lista la configuración de git
+      Enter hasta terminar.
+      Presionar Q para salir.
+
+    git add [nombre] - agrega un archivo específico
+    git add . - agrega todos
+    
