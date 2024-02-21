@@ -34,4 +34,4 @@ GitHub
 
     git commit - m "Mensaje" - Commitea con un mensaje personalizado
 
-    
+    git status - despliega el status de Git de tus archivos
