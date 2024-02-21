@@ -23,10 +23,15 @@ ls - lista los archivos y carpetas del directorio actual
 
 GitHub
 
+    git init - se inicializa (solo la primera vez)
+
     git config --list = lista la configuración de git
       Enter hasta terminar.
       Presionar Q para salir.
 
     git add [nombre] - agrega un archivo específico
     git add . - agrega todos
+
+    git commit - m "Mensaje" - Commitea con un mensaje personalizado
+
     
