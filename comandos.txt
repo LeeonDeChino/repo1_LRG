@@ -39,3 +39,5 @@ GitHub
     git log - despliega el historial de los commits
 
     git remote -v - nos indica la dirección del repositorio (fetch and push)
+
+    Dentro del archivo .gitignote, escribimos el asterisco seguido de la extensión que queremos bloquear, por ejemplo: *.exe bloqueará los archivos con esa extensión
