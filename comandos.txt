@@ -40,4 +40,10 @@ GitHub
 
     git remote -v - nos indica la dirección del repositorio (fetch and push)
 
-    Dentro del archivo .gitignote, escribimos el asterisco seguido de la extensión que queremos bloquear, por ejemplo: *.exe bloqueará los archivos con esa extensión
+    Dentro del archivo .gitignore, escribimos el asterisco seguido de la extensión que queremos bloquear, por ejemplo: *.exe bloqueará los archivos con esa extensión.
+    
+    Para carpetas, escribiremos el nombre de la carpeta segido de la barra /. Por ejemplo: ejecutables/
+
+    Para permitir archivos específicos que tengan extensión bloqueada pero sí querramos subir, usaremos el signo de negación "!". Por ejemplo: !ejecutableBueno.exe 
+
+    
