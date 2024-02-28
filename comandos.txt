@@ -35,3 +35,7 @@ GitHub
     git commit - m "Mensaje" - Commitea con un mensaje personalizado
 
     git status - despliega el status de Git de tus archivos
+
+    git log - despliega el historial de los commits
+
+    git remote -v - nos indica la dirección del repositorio (fetch and push)
