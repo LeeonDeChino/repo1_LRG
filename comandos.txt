@@ -46,4 +46,7 @@ GitHub
 
     Para permitir archivos específicos que tengan extensión bloqueada pero sí querramos subir, usaremos el signo de negación "!". Por ejemplo: !ejecutableBueno.exe 
 
+    git branch nombredelarama - nos crea una nueva branch
+
+    git checkout nombredelarama - cambiamos de rama
     
