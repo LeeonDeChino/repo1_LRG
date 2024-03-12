@@ -49,4 +49,8 @@ GitHub
     git branch nombredelarama - nos crea una nueva branch
 
     git checkout nombredelarama - cambiamos de rama
+
+    git push origin nombredelarama - sube las ramas al repo
+
+    
     
