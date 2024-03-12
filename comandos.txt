@@ -50,7 +50,7 @@ GitHub
 
     git checkout nombredelarama - cambiamos de rama
 
-    git push origin nombredelarama - sube las ramas al repo
+    git push origin nombredelarama - sube la rama al repo
 
-    
+    git push origin --delete nombredelarama - borra la rama del repo
     
